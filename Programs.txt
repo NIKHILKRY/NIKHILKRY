@@ -1,1 +1,2 @@
-iwr -useb https://christitus.com/win | iex
+iwr -useb https://christitus.com/win | iex    --all apk
+irm https://get.activated.win | iex      --activate.all
